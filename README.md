@@ -23,14 +23,35 @@
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vecteezy.com/vector-art/11260238-html5-css3-js-icon-set-web-development-logo-icon-set-of-html-css-and-javascript-programming-symbol](https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="60" height="50"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="60" height="50"/>
+      <img src="https://miro.medium.com/v2/resize:fit:500/1*lTRZ-1JbVEbrBiI2b2YDqw.png" alt="react" width="50" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="40" height="50" />
+
+
+
 </p>
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> My Python Skills:
+-I have extensive experience with Python, which I use for a wide range of applications including web development, data analysis, and automation. I am proficient in various Python libraries and frameworks such as:
+
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical computing.
+- **Scikit-Learn**: For machine learning.
+- **BeautifulSoup & Scrapy**: For web scraping.
+- **Flask & Django**: For web development.
+- **TensorFlow & Keras**: For deep learning.
+- **Matplotlib & Seaborn**: For data visualization.
+
+I have successfully completed several projects using Python, such as building machine learning models, creating automation scripts, and developing web applications. My passion for Python drives me to continually improve my skills and explore new libraries and tools.
+
+Feel free to reach out if you want to discuss Python, share project ideas, or need help with a Python-related challenge!
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=RadheyaA31_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
+![RadheyaA31's github stats](https://github-readme-stats.vercel.app/api?username=RadheyaA31&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadheyaA31&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RadheyaA31&theme=dark)](https://git.io/streak-stats)
+
 
 <!--START_SECTION:waka-->
 
