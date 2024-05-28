@@ -39,9 +39,9 @@
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical computing.
 - **Scikit-Learn**: For machine learning.
-- **BeautifulSoup & Scrapy**: For web scraping.
+- **BeautifulSoup & Selenium**: For web scraping.
 - **Flask & Django**: For web development.
-- **TensorFlow & Keras**: For deep learning.
+- **TensorFlow**: For deep learning.
 - **Matplotlib & Seaborn**: For data visualization.
 - And many more **Python Packages**.
 
