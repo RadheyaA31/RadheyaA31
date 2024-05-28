@@ -43,6 +43,7 @@
 - **Flask & Django**: For web development.
 - **TensorFlow & Keras**: For deep learning.
 - **Matplotlib & Seaborn**: For data visualization.
+- And many more **Python Packages**.
 
 I have successfully completed several projects using Python, such as building machine learning models, creating automation scripts, and developing web applications. My passion for Python drives me to continually improve my skills and explore new libraries and tools.
 
